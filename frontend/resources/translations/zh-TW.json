@@ -3,7 +3,7 @@
   "defaultUsername": "我",
   "welcomeText": "歡迎使用 @:appName",
   "welcomeTo": "歡迎來到",
-  "githubStarText": "在 GitHub 點星",
+  "githubStarText": "在 GitHub 星",
   "subscribeNewsletterText": "訂閱電子報",
   "letsGoButtonText": "開始使用",
   "title": "標題",
@@ -119,9 +119,11 @@
     "publishToTheWebHint": "使用 AppFlowy 建立網站",
     "publish": "發佈",
     "unPublish": "取消發佈",
+    "visitSite": "訪問網站",
     "exportAsTab": "導出為",
     "publishTab": "發佈",
-    "shareTab": "分享"
+    "shareTab": "分享",
+    "publishOnAppFlowy": "在 AppFlowy 上發布"
   },
   "moreAction": {
     "small": "小",
@@ -177,10 +179,16 @@
     "question3": "為什麼要使用 Rust",
     "question4": "清冰箱食譜",
     "aiMistakePrompt": "AI 可能會犯錯，請檢查重要資訊。",
+    "chatWithFilePrompt": "您想與此檔案或文件進行互動嗎？",
+    "indexFileSuccess": "索引檔成功",
+    "inputActionNoPages": "沒有頁面結果",
+    "referenceSource": "已找到 {} 來源",
+    "referenceSources": "找到 {} 個來源",
     "clickToMention": "單擊以提及頁面",
     "uploadFile": "上傳 PDF、md 或 txt 檔案以進行聊天",
     "questionTitle": "想法",
-    "questionDetail": "{} 你好！我能為您提供什麼幫助？"
+    "questionDetail": "{} 你好！我能為您提供什麼幫助？",
+    "indexingFile": "索引 {}"
   },
   "trash": {
     "text": "垃圾桶",
